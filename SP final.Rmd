@@ -38,9 +38,7 @@ Pour mieux illustrer cette présentation, voici des exemples d’usage de SP:
 ```{r}
 library("sp")
 library("raster")
-library("rgdal") #input/output, projections 
-library("rgeos") #GEOMETRY OPS
-library("spdep") #spatial dependance
+
 # Exemple 1: Afficher un point par un couple de valeurs longitude/latitude
 
 adm_fr <- getData('GADM', country='FRA', level=1)
