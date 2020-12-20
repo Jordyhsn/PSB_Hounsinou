@@ -110,9 +110,12 @@ plot(adm, col="#FAFAB1", border="grey", lwd=1,add=T)
 ##  Sources
 
 
-https://sites.google.com/site/rgraphiques/5--applications/5--realiser-des-cartes-avec-le-logiciel-r/realiser-un-plan-avec-r-et-superposer-des-donnees
-  
-https://sites.google.com/site/rgraphiques/5--applications/5--realiser-des-cartes-avec-le-logiciel-r/realiser-un-plan-avec-r-et-superposer-des-donnees
-  
+
 https://sites.google.com/site/rgraphiques/5--applications/5--realiser-des-cartes-avec-le-logiciel-r/realiser-un-plan-avec-r-et-superposer-des-donnees
 
+  
+https://www.maths.lancs.ac.uk/~rowlings/Teaching/UseR2012/cheatsheet.html
+
+http://www2.uaem.mx/r-mirror/web/packages/sp/sp.pdf
+
+https://rcarto.github.io/carto_avec_r/chapitre1.html
